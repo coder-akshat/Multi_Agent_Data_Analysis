@@ -1,28 +1,3 @@
-<div align="center">
-
-  [![pytest Action](https://github.com/IbraheemTuffaha/python-fastapi-template/actions/workflows/pytest.yml/badge.svg)](https://github.com/IbraheemTuffaha/python-fastapi-template/actions/workflows/pytest.yml)
-  [![format Action](https://github.com/IbraheemTuffaha/python-fastapi-template/actions/workflows/format.yml/badge.svg)](https://github.com/IbraheemTuffaha/python-fastapi-template/actions/workflows/format.yml)
-  [![Python Version](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2FIbraheemTuffaha%2Fpython-fastapi-template%2Fmain%2Fpyproject.toml&query=project.requires-python&label=python&color=greenlime)](https://github.com/IbraheemTuffaha/python-fastapi-template/blob/main/pyproject.toml)
-  [![GitHub License](https://img.shields.io/github/license/IbraheemTuffaha/python-fastapi-template?color=greenlime)](https://github.com/IbraheemTuffaha/python-fastapi-template/blob/main/LICENSE)
-  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/shakil1819/Multi-Agent-Data-Analyst)
-</div>
-<div align="center">
-  <a href="https://idx.google.com/import?url=https%3A%2F%2Fgithub.com%2Fshakil1819%2FgetChief-assignment">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://cdn.idx.dev/btn/open_dark_32.svg">
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://cdn.idx.dev/btn/open_light_32.svg">
-      <img
-        height="32"
-        alt="Open in IDX"
-        src="https://cdn.idx.dev/btn/open_purple_32.svg">
-    </picture>
-  </a>
-</div>
-
 ![image](https://github.com/user-attachments/assets/e124c4a7-18ea-49f2-8726-f16d1207e63f)
 
 # Multi-Agent Data Analysis System
